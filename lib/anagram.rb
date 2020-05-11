@@ -5,4 +5,8 @@ class Anagram
     @name = name
   end
   
+  def match
+  
+  end
+  
 end
