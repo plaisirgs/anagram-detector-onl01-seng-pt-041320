@@ -2,7 +2,7 @@
 class Anagram
   
   def initialize(word)
-    @word = word
+    @word = (%w(word))
   end
 
 end
