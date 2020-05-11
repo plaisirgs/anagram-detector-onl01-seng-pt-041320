@@ -6,7 +6,7 @@ class Anagram
   end
   
   def match(word)
-    %w(word)
+    %w("#{word}")
   end
   
 end
